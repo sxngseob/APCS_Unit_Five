@@ -11,7 +11,6 @@ import static org.junit.jupiter.api.Assertions.*;
 
 public class TruckTests {
 
-    /*
     private static Truck truckOne = new Truck("Beest1961");
     private static Truck truckTwo = new Truck("APCSA2020", 2700, 17, 9);
 
@@ -86,5 +85,5 @@ public class TruckTests {
         assertEquals(expected, actual);
     }
 
-     */
+
 }
